@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "从文章正文提取关键知识点并生成结构化 Markdown 知识卡片"
+  default_prompt: "请把下面这篇文章（或我指定的本地 Markdown/TXT 文件）提炼成 5~8 张知识卡片，每张包含标题、核心知识、简明解释、例子或自测问题："
